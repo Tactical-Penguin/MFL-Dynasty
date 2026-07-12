@@ -19,7 +19,7 @@ from mfl_scoring import scoring_context
 from roster_positions import position_group
 
 
-DATA_DIR = Path("data")
+DATA_DIR = Path(__file__).resolve().parent / "data"
 CORE_POSITIONS = ["QB", "RB", "WR", "TE", "PK", "DT", "DE", "LB", "CB", "S"]
 KICKER_POSITIONS = {"PK", "K"}
 STARTER_SLOTS = [

@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 from mfl_client import MFLAuthError, MFLClient
 
 
-DATA_DIR = Path("data")
+DATA_DIR = Path(__file__).resolve().parent / "data"
 
 
 def parse_history_entry(entry: dict) -> dict:
