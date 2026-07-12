@@ -1,0 +1,256 @@
+{
+  "encoding": "utf-8",
+  "league": {
+    "baseURL": "https://www43.myfantasyleague.com",
+    "bestLineup": "No",
+    "currentWaiverType": "WAIVERS_FCFS",
+    "defaultTradeExpirationDays": "7",
+    "draftLimitHours": "22:00",
+    "draftPlayerPool": "Both",
+    "draftTimer": "OFF",
+    "draft_kind": "live",
+    "endWeek": "18",
+    "franchises": {
+      "count": "8",
+      "franchise": [
+        {
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2017/33236_franchise_icon0001.jpg",
+          "id": "0001",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2017/33236_franchise_logo0001.jpg",
+          "name": "Gumby Bandits",
+          "waiverSortOrder": "4"
+        },
+        {
+          "abbrev": "SODB",
+          "icon": "https://www46.myfantasyleague.com/fflnetdynamic2009/77999_franchise_icon0002.jpg",
+          "id": "0002",
+          "logo": "https://www46.myfantasyleague.com/fflnetdynamic2009/77999_franchise_logo0002.jpg",
+          "name": "<font color='#39FF14'>Somewhere Over Dwayne Bowe</font>",
+          "sound": "http:// http://www.moviesoundclips.net/movies1/braveheart/bravehearta.mp3",
+          "waiverSortOrder": "7"
+        },
+        {
+          "abbrev": "TUAxCD",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2023/33236_franchise_icon0003.png",
+          "id": "0003",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2023/33236_franchise_logo0003.png",
+          "name": "Tua If By CeeDee",
+          "waiverSortOrder": "5"
+        },
+        {
+          "abbrev": "BS",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2021/33236_franchise_icon0004.jpg",
+          "id": "0004",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2021/33236_franchise_logo0004.jpg",
+          "name": "Bangcock Seamen",
+          "waiverSortOrder": "6"
+        },
+        {
+          "icon": "https://www44.myfantasyleague.com/fflnetdynamic2010/30962_franchise_icon0005.jpg",
+          "id": "0005",
+          "name": "Bell Biv Deebo",
+          "waiverSortOrder": "3"
+        },
+        {
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2018/33236_franchise_icon0006.jpg",
+          "id": "0006",
+          "logo": "http://{\\rtf1\\ansi\\ansicpg1252 {\\fonttbl} {\\colortbl;\\red255\\green255\\blue255;} }",
+          "name": "Irish Warriors ",
+          "waiverSortOrder": "2"
+        },
+        {
+          "abbrev": "MBD",
+          "icon": "https://www43.myfantasyleague.com/fflnetdynamic2018/33236_franchise_icon0007.jpg",
+          "id": "0007",
+          "logo": "https://www43.myfantasyleague.com/fflnetdynamic2018/33236_franchise_logo0007.jpg",
+          "name": "<b><font color='red'>Much Love 4 Mahomies</font></b>",
+          "sound": "https://www46.myfantasyleague.com/fflnetdynamic2009/77999_franchise_logo0007.jpg",
+          "waiverSortOrder": "8"
+        },
+        {
+          "icon": "https://www44.myfantasyleague.com/fflnetdynamic2010/30962_franchise_icon0008.jpg",
+          "id": "0008",
+          "name": "Team Taco",
+          "waiverSortOrder": "1"
+        }
+      ]
+    },
+    "h2h": "ALL",
+    "history": {
+      "league": [
+        {
+          "url": "https://www43.myfantasyleague.com/2026/home/33236",
+          "year": "2026"
+        },
+        {
+          "url": "https://www46.myfantasyleague.com/2009/home/77999",
+          "year": "2009"
+        },
+        {
+          "url": "https://www44.myfantasyleague.com/2010/home/30962",
+          "year": "2010"
+        },
+        {
+          "url": "https://www44.myfantasyleague.com/2011/home/19244",
+          "year": "2011"
+        },
+        {
+          "url": "https://www44.myfantasyleague.com/2012/home/14694",
+          "year": "2012"
+        },
+        {
+          "url": "https://www46.myfantasyleague.com/2013/home/25541",
+          "year": "2013"
+        },
+        {
+          "url": "https://www47.myfantasyleague.com/2014/home/25257",
+          "year": "2014"
+        },
+        {
+          "url": "https://www43.myfantasyleague.com/2015/home/38569",
+          "year": "2015"
+        },
+        {
+          "url": "https://www43.myfantasyleague.com/2016/home/33236",
+          "year": "2016"
+        },
+        {
+          "url": "http://www43.myfantasyleague.com/2017/home/33236",
+          "year": "2017"
+        },
+        {
+          "url": "http://www43.myfantasyleague.com/2018/home/33236",
+          "year": "2018"
+        },
+        {
+          "url": "http://www43.myfantasyleague.com/2019/home/33236",
+          "year": "2019"
+        },
+        {
+          "url": "https://www43.myfantasyleague.com/2020/home/33236",
+          "year": "2020"
+        },
+        {
+          "url": "https://www43.myfantasyleague.com/2021/home/33236",
+          "year": "2021"
+        },
+        {
+          "url": "https://www43.myfantasyleague.com/2022/home/33236",
+          "year": "2022"
+        },
+        {
+          "url": "https://www43.myfantasyleague.com/2023/home/33236",
+          "year": "2023"
+        },
+        {
+          "url": "https://www43.myfantasyleague.com/2024/home/33236",
+          "year": "2024"
+        },
+        {
+          "url": "https://www43.myfantasyleague.com/2025/home/33236",
+          "year": "2025"
+        }
+      ]
+    },
+    "id": "33236",
+    "injuredReserve": "50",
+    "keeperType": "dynasty",
+    "lastRegularSeasonWeek": "1",
+    "loadRosters": "live_draft",
+    "lockout": "No",
+    "maxWaiverRounds": "8",
+    "mobileAlerts": "",
+    "name": "Junkies Dynasty",
+    "nflPoolEndWeek": "18",
+    "nflPoolStartWeek": "1",
+    "nflPoolType": "Confidence",
+    "partialLineupAllowed": "YES",
+    "playerLimitUnit": "LEAGUE",
+    "precision": "2",
+    "rosterLimits": {
+      "position": [
+        {
+          "limit": "0-0",
+          "name": "QB"
+        },
+        {
+          "limit": "0-0",
+          "name": "RB"
+        },
+        {
+          "limit": "0-0",
+          "name": "WR"
+        },
+        {
+          "limit": "0-0",
+          "name": "TE"
+        },
+        {
+          "limit": "0-0",
+          "name": "PK"
+        },
+        {
+          "limit": "0-0",
+          "name": "DT+DE"
+        },
+        {
+          "limit": "0-0",
+          "name": "LB"
+        },
+        {
+          "limit": "0-0",
+          "name": "CB+S"
+        }
+      ]
+    },
+    "rosterSize": "40",
+    "rostersPerPlayer": "1",
+    "standingsSort": "PCT,PTS,H2H,PWR,",
+    "startWeek": "1",
+    "starters": {
+      "count": "14",
+      "idp_starters": "",
+      "position": [
+        {
+          "limit": "2",
+          "name": "QB"
+        },
+        {
+          "limit": "1-4",
+          "name": "RB"
+        },
+        {
+          "limit": "1-4",
+          "name": "WR"
+        },
+        {
+          "limit": "0-3",
+          "name": "TE"
+        },
+        {
+          "limit": "1",
+          "name": "PK"
+        },
+        {
+          "limit": "2",
+          "name": "DT+DE"
+        },
+        {
+          "limit": "2",
+          "name": "LB"
+        },
+        {
+          "limit": "2",
+          "name": "CB+S"
+        }
+      ]
+    },
+    "survivorPool": "Yes",
+    "survivorPoolEndWeek": "18",
+    "survivorPoolStartWeek": "1",
+    "taxiSquad": "0",
+    "usesContractYear": "0",
+    "usesSalaries": "0"
+  },
+  "version": "1.0"
+}
