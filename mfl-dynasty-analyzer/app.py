@@ -262,7 +262,7 @@ with tabs[2]:
     st.dataframe(
         context,
         hide_index=True,
-        use_container_width=True,
+        use_container_width="stretch",
         column_config={
             **team_column_config,
             "fp_matched": st.column_config.CheckboxColumn("Matched"),
